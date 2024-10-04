@@ -71,10 +71,12 @@ body > div.heros > div > img {
 
 .carousel-item > h1 {
     color: #66bfbf;
-    font-size: 2rem;
-    font-weight: 700;
-    text-align: center;
+    margin: 50px auto 0 auto;
+    font-family: "Sacramento", cursive;
+    padding: 10px;
 }
+
+
 
 ul {
     list-style-type: none;
@@ -89,12 +91,17 @@ li {
     text-align: center;
 }
 
+
 body > div.contact > div > p {
     padding: 25px;
 }
 
 .dropdown-menu > a {
     text-decoration: none;
+}
+
+#last {
+    padding-bottom: 130px;
 }
 
 body > div.contact > div > div > button {
